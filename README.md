@@ -36,8 +36,11 @@ I used the following tools and libraries:
 
 ## 🧠 Model Summary
 
+
 I trained a `RandomForestRegressor` using the following features:
 
 ```python
 ['year', 'population', 'gdp', 'cement_co2', 
  'cement_co2_per_capita', 'co2_growth_abs', 'co2_growth_prct']
+
+Project and documentation published on https://doi.org/10.5281/zenodo.15247669
